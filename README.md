@@ -7,7 +7,7 @@ A safe One-Time Password (OTP) verification system implementation.
 1. Repository clone:
 
 `` `Bash
-git clone https://github.com/Ashtaq/Laravel_OTP.git
+git clone [https://github.com/Ashtaq/Laravel_OTP.git](https://github.com/Ashtaq/Laravel_OTP.git)
 ,
 
 2. Establish dependence:
